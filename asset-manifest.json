@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/cra-sweet-sailings/static/js/main.20fa2ffd.chunk.js",
-    "main.js.map": "/cra-sweet-sailings/static/js/main.20fa2ffd.chunk.js.map",
-    "runtime-main.js": "/cra-sweet-sailings/static/js/runtime-main.b015b892.js",
-    "runtime-main.js.map": "/cra-sweet-sailings/static/js/runtime-main.b015b892.js.map",
-    "static/js/2.2258e967.chunk.js": "/cra-sweet-sailings/static/js/2.2258e967.chunk.js",
-    "static/js/2.2258e967.chunk.js.map": "/cra-sweet-sailings/static/js/2.2258e967.chunk.js.map",
-    "index.html": "/cra-sweet-sailings/index.html",
-    "precache-manifest.809b1e48ea116f40d2723cccef1cb520.js": "/cra-sweet-sailings/precache-manifest.809b1e48ea116f40d2723cccef1cb520.js",
-    "service-worker.js": "/cra-sweet-sailings/service-worker.js",
-    "static/js/2.2258e967.chunk.js.LICENSE.txt": "/cra-sweet-sailings/static/js/2.2258e967.chunk.js.LICENSE.txt"
+    "main.js": "/taniyah-l-jackson.github.io/cra-sweet-sailings/static/js/main.4d573205.chunk.js",
+    "main.js.map": "/taniyah-l-jackson.github.io/cra-sweet-sailings/static/js/main.4d573205.chunk.js.map",
+    "runtime-main.js": "/taniyah-l-jackson.github.io/cra-sweet-sailings/static/js/runtime-main.d85ad2b9.js",
+    "runtime-main.js.map": "/taniyah-l-jackson.github.io/cra-sweet-sailings/static/js/runtime-main.d85ad2b9.js.map",
+    "static/js/2.2258e967.chunk.js": "/taniyah-l-jackson.github.io/cra-sweet-sailings/static/js/2.2258e967.chunk.js",
+    "static/js/2.2258e967.chunk.js.map": "/taniyah-l-jackson.github.io/cra-sweet-sailings/static/js/2.2258e967.chunk.js.map",
+    "index.html": "/taniyah-l-jackson.github.io/cra-sweet-sailings/index.html",
+    "precache-manifest.c626db0156fa6fbed75f1788fd798319.js": "/taniyah-l-jackson.github.io/cra-sweet-sailings/precache-manifest.c626db0156fa6fbed75f1788fd798319.js",
+    "service-worker.js": "/taniyah-l-jackson.github.io/cra-sweet-sailings/service-worker.js",
+    "static/js/2.2258e967.chunk.js.LICENSE.txt": "/taniyah-l-jackson.github.io/cra-sweet-sailings/static/js/2.2258e967.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b015b892.js",
+    "static/js/runtime-main.d85ad2b9.js",
     "static/js/2.2258e967.chunk.js",
-    "static/js/main.20fa2ffd.chunk.js"
+    "static/js/main.4d573205.chunk.js"
   ]
 }
