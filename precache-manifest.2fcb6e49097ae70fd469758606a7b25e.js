@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b145f31414499e65f934cef5f25b404",
+    "revision": "cbc28d86da197c2df7c841be89e6b53b",
     "url": "/cra-sweet-sailings/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cra-sweet-sailings/static/js/2.2258e967.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "900da00279752e2023d8",
-    "url": "/cra-sweet-sailings/static/js/main.644dbda5.chunk.js"
+    "revision": "3bfef9fd25e94c95b1ed",
+    "url": "/cra-sweet-sailings/static/js/main.2db4d846.chunk.js"
   },
   {
     "revision": "4afb14b077c236655964",
