@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is an ecommerce website that features a mock company called Sweet Sailings. 
+
+The project features:
+  -React Page Routing
+  -A functional cart and checkout page
+  -A REST API that displays a list of items sold, also includes a single item display page
+  -Form pages that store user data in a database
+  
+This project will need xxamp in order to run.
+The database is available in the nodefiles for reference
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,9 +77,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Sweet-Sailings
-# cra-sweet-sailings
-# Sweet_Sailings
-# sweet-sailings
-# sweet-sailings
-# sweet-sailings
