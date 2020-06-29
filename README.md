@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Description:
+### `Description:`
   An ecommerce website that features a mock company called Sweet Sailings. 
 
-  The project features:
+ ### `The project features:`
     -React Page Routing
     -A functional cart and checkout page
     -A REST API that displays a list of items sold, also includes a single item display page
