@@ -62,7 +62,8 @@ function ShowCart() {
 
     const productSlides = load ? <Loading /> : cart.map((item, idx) => {
 
-        return <List key={idx} {...item}/>})
+        return <List key={idx} {...item}/>
+    })
 
 
     return (
